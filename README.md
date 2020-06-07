@@ -1,5 +1,5 @@
 # google-power-search
-A power tool for power users of Google. This website ([http://advanced-google-search.rf.gd/](http://advanced-google-search.rf.gd/)) helps you find more relevant, personalized, and useful results from your Google searches. 
+A power tool for power users of Google. This website ([http://google-power-search.rf.gd/](http://google-power-search.rf.gd/)) helps you find more relevant, personalized, and useful results from your Google searches. 
 
 # 30 second pitch
 Finding the correct Google query string is an art in and of itself. We made this productivity tool for those times when you're looking for something specific, but other results keep drowning out what you're looking for. The tool works by using the advanced search operators already built in to Google search. However, for the casual user memorizing these operators can be difficult, so we decided to spend a weekend building this tool! Oh wait... Anyway, if your topic takes on multiple settings, or you're looking for a particular filetype, phrase, or word, this is the tool that is one click away--and it will be there to save the day. Superman's got nothin' on *\~Advanced Google Search\~*!
